@@ -1,0 +1,1 @@
+# Kacper_Krolik_NTPISK_Django
