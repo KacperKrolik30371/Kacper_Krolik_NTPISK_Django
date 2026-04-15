@@ -1,0 +1,7 @@
+<h1>Dodaj kategorię</h1>
+
+<form method="post">
+    {% csrf_token %}
+    {{ form.as_p }}
+    <button type="submit">Zapisz</button>
+</form>
